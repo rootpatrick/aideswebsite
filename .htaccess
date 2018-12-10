@@ -1,0 +1,14 @@
+RewriteEngine On 
+
+RewriteRule ^acceuil?$ index.php
+
+
+RewriteRule ^apropos?$ about.php
+
+RewriteRule ^actualites?$ actuality.php
+
+RewriteRule ^gallery?$ galleryphoto.php
+
+RewriteRule ^project?$ project.php
+
+RewriteRule ^contact?$ contact.php
